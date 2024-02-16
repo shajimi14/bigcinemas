@@ -1,0 +1,28 @@
+.AddShowSec{
+    background: url(https://wallpaperaccess.com/full/212811.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.AddShowsForm{
+    font-family: 'Poppins', sans-serif;
+    transition: all .2s ease-in;
+}
+
+.headingaddshow{
+    color: rgb(0, 247, 255);
+}
+
+.AddShows-Labelname{
+    color: rgb(0, 247, 255);
+}
+
+.Showtimelabel{
+    color: aliceblue;
+}
+
+.form-control[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+}

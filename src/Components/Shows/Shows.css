@@ -1,0 +1,13 @@
+.Currentshow{
+    font-family: 'Caveat', cursive;
+    font-size: 2rem;
+}
+
+.card-outline{
+    border: 1px solid transparent;
+}
+
+.icon{
+    color: rgb(255, 0, 0);
+    font-size: 22px;
+}

@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+.nav {
+    background-color: #000000;
+    color: aliceblue;
+    justify-content: space-between;
+}
+
+.navbar-brand {
+    font-family: 'Caveat', cursive;
+    font-size: 2rem;
+}
+
+.nav ul {
+    gap: 0.25rem;
+}
+
+.li {
+    color: aliceblue;
+    &:hover {
+        color: rgb(17, 178, 184);
+        text-decoration: none;
+    }
+}
+
+.li.active{
+    color: rgb(0, 247, 255);
+}
+
+.bts {
+    background: rgb(0, 247, 255);
+    border-radius: 4px;
+    height: 40px;
+    cursor: pointer;
+}

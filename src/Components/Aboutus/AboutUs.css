@@ -1,0 +1,28 @@
+.AboutUsBG{
+    background: url(https://wallpaperaccess.com/full/2000061.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.AboutUs.z-index {
+    position: relative;
+    z-index: 10;
+    padding-top: 20px;
+}
+
+.AboutUs {
+    transition: all .2s ease-in;
+}
+
+.heading{
+    font-family: 'Caveat', cursive;
+    color: rgb(0, 247, 255);
+}
+
+.text-content{
+    color: rgb(253, 254, 254);
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}

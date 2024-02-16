@@ -1,0 +1,87 @@
+.AdminLoginSection{
+    background: url(https://wallpaperaccess.com/full/210915.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.AdminformLogin{
+    font-family: 'Poppins', sans-serif;
+    transition: all .2s ease-in;
+}
+
+.AdminformLogin h2{
+    color: rgb(0, 247, 255);
+}
+
+.AdminformLogin input::placeholder{
+    color: rgb(17, 178, 184);
+}
+
+.adminLogin{
+    color: aliceblue;
+    background-color: rgb(17, 178, 184);
+    border-radius: 12px;
+}
+
+.userLogin{
+    color: rgb(17, 178, 184);
+    border: 2px solid aliceblue;
+    border-radius: 12px;
+}
+
+.carLogin{
+    border: 1px solid aliceblue;
+    backdrop-filter: blur(30px);
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    background: transparent;
+}
+
+.icon-containerLogin {
+    text-align: center;
+    color: rgb(0, 247, 255);
+    font-size: 20px;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.form-group .form-control{
+    border-radius: 8px;
+    background-color: transparent;
+    color: rgb(0, 247, 255);
+    border: 1px solid rgb(240, 248, 250);
+    transition: border-color 0.2s ease-in-out;
+}
+
+.form-group .form-control:focus {
+    border-color: rgb(17, 178, 184);
+}
+
+.form-group {
+    position: relative;
+}
+
+.LoginAdmin{
+    color: aliceblue;
+    border-radius: 8px;
+    background-color: rgb(17, 178, 184);
+}
+
+.Donthave{
+    font-size: 14px;
+    color: rgb(200, 202, 205);
+}
+
+.SignupBtn{
+    margin-left: 5px;
+    color: rgb(0, 247, 255);
+    text-decoration: underline;
+}
+
+.SignupBtn:hover{
+    color: rgb(17, 178, 184);
+}
