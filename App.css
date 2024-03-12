@@ -1,0 +1,15 @@
+.Sg{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: url(https://wallpaperaccess.com/full/1330652.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  top: 0;
+  opacity: 0.9;
+  position: fixed;
+  width: 100%;
+  overflow: auto;
+}
