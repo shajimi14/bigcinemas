@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/bigcinemas/static/css/main.813e1f4e.css",
+    "main.js": "/github.io/bigcinemas/static/js/main.97579dfc.js",
+    "static/js/787.b55ca069.chunk.js": "/github.io/bigcinemas/static/js/787.b55ca069.chunk.js",
+    "index.html": "/github.io/bigcinemas/index.html",
+    "main.813e1f4e.css.map": "/github.io/bigcinemas/static/css/main.813e1f4e.css.map",
+    "main.97579dfc.js.map": "/github.io/bigcinemas/static/js/main.97579dfc.js.map",
+    "787.b55ca069.chunk.js.map": "/github.io/bigcinemas/static/js/787.b55ca069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.813e1f4e.css",
+    "static/js/main.97579dfc.js"
+  ]
+}
